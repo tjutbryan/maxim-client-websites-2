@@ -20,6 +20,8 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "baseline-browser-mapping": "^2.10.0",
+    "caniuse-lite": "^1.0.30001770",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "env-cmd": "^10.1.0",
